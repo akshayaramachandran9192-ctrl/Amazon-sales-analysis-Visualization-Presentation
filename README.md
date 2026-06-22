@@ -1,3 +1,4 @@
+<img width="970" height="546" alt="Screenshot 2026-06-21 202548" src="https://github.com/user-attachments/assets/26e0e82e-dd6b-442e-9f9d-f22416558d18" />
 # Amazon-sales-analysis-Visualization-Presentation
 A Power BI Project showcasing Data Transformation, Modeling, and Interactive Visualization along with Presentation in Powerpoint
 # 📊 Data Analytics Project: End-to-End Power BI Dashboard
@@ -12,7 +13,8 @@ This project delivers a comprehensive data analysis solution focused on transfor
 * **BI Tool:** Microsoft Power BI (Desktop & Service)
 * **ETL & Transformation:** Power Query (M Language)
 * **Data Modeling:** Star Schema Architecture (Fact and Dimension Tables)
-* **Design & UI:** Customized Professional Theme Layout (`screenshot%2026-06-21%202548`)
+* **Design & UI:** Customized Professional Theme Layout (`screenshot%2026-06-21%202548<img width="970" height="546" alt="Screenshot 2026-06-21 202548" src="https://github.com/user-attachments/assets/92bba4f0-ae6e-41c9-a081-b525e39d9e99" />
+`)
 
 ---
 
